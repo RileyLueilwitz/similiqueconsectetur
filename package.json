@@ -1,0 +1,34 @@
+{
+  "name": "similiqueconsectetur",
+  "version": "1.0.0",
+  "description": "Check equality of objects based on their contextual type in TypeScript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RileyLueilwitz/similiqueconsectetur.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "DarianaKunde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RileyLueilwitz/similiqueconsectetur.git/issues"
+  },
+  "files": [
+    "index.js",
+    "index.ts",
+    "transformer.js",
+    "transformer.ts"
+  ],
+  "homepage": "https://github.com/RileyLueilwitz/similiqueconsectetur.git",
+  "devDependencies": {
+    "@types/mocha": "^5.2.3",
+    "@types/node": "^10.3.5",
+    "mocha": "^5.2.0",
+    "typescript": "^2.9.2"
+  },
+  "peerDependencies": {
+    "typescript": "^2.4.1"
+  }
+}
